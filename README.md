@@ -1,2 +1,5 @@
 # HappyBirthday
 Made using steps from Udacity's class in the Android Nanodegree called "User Interface"
+### THIS IS NOT A SOLUTION TO THE PROGRAM'S FINAL FINAL PROJECT
+### IT IS BOTH UNFINISHED AND BUGGY DO NOT USE THIS AS THE BASIS
+### OR REFERENCE TO A PERSONAL OR PROFESSIONAL PROJECT
